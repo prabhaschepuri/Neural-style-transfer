@@ -1,0 +1,20 @@
+## Neural Style Transfer Results
+
+<table>
+<tr>
+<td align="center">
+<b>Content Image</b><br>
+<img src="D:\Neural Style Transfer\Gen images\025ac314-2989-4fdf-832d-b57d806f1998.png" width="250">
+</td>
+
+<td align="center">
+<b>Style Image</b><br>
+<img src="D:\Neural Style Transfer\Gen images\Gen_3.png" width="250">
+</td>
+
+<td align="center">
+<b>Generated Image</b><br>
+<img src="images/generated_car.png" width="250">
+</td>
+</tr>
+</table>
